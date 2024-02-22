@@ -13,3 +13,4 @@ available flags are as follows:
         -name <str>          : name of promoter - default "unnamed"
         -ws <int>            : window size - default 30
 
+**This project is based on**: https://github.com/Gagniuc/Objective-Digital-Stains
