@@ -8,8 +8,8 @@ available flags are as follows:
         -dna <dna string>    : Dna String as argument
         -h                   : Display this help message
         -o <file>            : Specify output folder
-        -m                   : Process for medium value
-        -ic                  : Save KappaIC
-        -name <str>          : name of promoter
-        -ws <int>            : window size
+        -m                   : Process for medium value - default false
+        -ic                  : Save KappaIC - default false
+        -name <str>          : name of promoter - default "unnamed"
+        -ws <int>            : window size - default 30
 
